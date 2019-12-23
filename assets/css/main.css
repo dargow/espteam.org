@@ -1277,7 +1277,7 @@
 
 	.box {
 		background: #ffffff;
-		border-bottom: solid 1px #ccc;
+/*		border-bottom: solid 1px #ccc; */
 	}
 
 		.box .image.featured {
@@ -1673,9 +1673,9 @@
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/11.jpg");
-		background-position: center center;
-		background-size: auto 100%;
+		background: #CCE8F4 url("../../images/header.svg");
+		background-position: right center;
+		background-size: cover;
 		background-repeat: no-repeat;
 		text-align: center;
 	}
@@ -1821,7 +1821,7 @@
 		/* Box */
 
 			.box {
-				padding: 2.75em 1.75em 2.75em 1.75em;
+				padding: 2.75em 1.75em 0 1.75em;
 			}
 
 				.box .image.featured {
