@@ -1277,7 +1277,7 @@
 
 	.box {
 		background: #ffffff;
-/*		border-bottom: solid 1px #ccc; */
+		border-bottom: solid 1px #ccc; 
 	}
 
 		.box .image.featured {
@@ -1821,7 +1821,7 @@
 		/* Box */
 
 			.box {
-				padding: 2.75em 1.75em 0 1.75em;
+				padding: 2.75em 1.75em 2.75em 1.75em;
 			}
 
 				.box .image.featured {
